@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi, eu sou o Luanderson Lima 👋
 
 - 🔭 Atualmente estou em busca de um emprego na área de TI
 - 🌱 Atualmente estou aprendendo React, SQL e SCRUM
